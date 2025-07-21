@@ -1,4 +1,13 @@
-# C-Language-Tutorial
-This repository contains basic C programs I wrote while learning the fundamentals of programming. These exercises helped me develop logical thinking, strengthen analytical skills, and build a strong programming foundation.
-C language is widely taught in the early semesters of engineering, and I hope these examples serve as a helpful resource for others on the same path.
-💡 Whether you're a student revising your basics or a beginner exploring C programming for the first time, this repo might just help you get started.
+📘 C Language Tutorial
+This repository contains a collection of basic C programs that I wrote while learning the fundamentals of programming. These exercises helped me develop logical thinking, analytical problem-solving, and a strong foundation in coding.
+C is one of the first languages introduced in engineering and computer science courses. I’ve included not only essential practice problems but also the solutions to assignments from the “Code With Harry” C language course, which many beginners find helpful.
+🚀 What You'll Find Here:
+Simple and well-commented C programs
+Solutions to beginner-level assignments
+Practical examples to understand core concepts like loops, functions, arrays, pointers, and more
+👨‍💻 Who This Is For:
+Engineering students revising their basics
+Beginners exploring C programming
+Anyone looking for clear and concise C examples for practice
+Feel free to fork this repository, use it as a reference, or contribute improvements.
+Happy coding! 😊
